@@ -6,3 +6,6 @@ The examples in DataStructQueueTemplate.cpp will only work for a queue of type i
 Example Execution:
 
 ![Q1](https://github.com/user-attachments/assets/2ee66ec1-9e08-44dd-a30b-dc0e71cfa157)
+
+
+Question 2 is implemented in DataStruct-RecLinSearch.cpp, Search.cpp and Search.h. DataStruct-RecLinSearch.cpp is only an example of the implmentation of Search.cpp and Search.h. 
