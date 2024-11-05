@@ -15,3 +15,16 @@ Example Execution:
 
 ![Q2](https://github.com/user-attachments/assets/26df4bfe-17f8-45c7-98b8-08497bea4458)
 
+
+Question 3 is implemented in DataStruct-InsertionSort.cpp, Node.cpp and Node.h. DataStruct-InsertionSort.cpp contains examples of the implementation of Node.h and Node.cpp. Node.cpp and Node.h implement the singly linked list and contain a insertionSort function that sorts a given linked list. A node pointer that points to the head of a list will be given to the insertionSort function and that function will return a pointer to the head of a new sorted list.
+
+Example Execution-
+A list of numbers in descending order is sorted.
+
+![Q3Pt1](https://github.com/user-attachments/assets/25b11c7a-deda-4bb9-adcb-73ed584404bb)
+
+A list of random numbers in no particulaar order is sorted.
+
+![Q3Pt2](https://github.com/user-attachments/assets/f6648a65-b77c-451e-8a12-33bd9d32e5d9)
+
+
