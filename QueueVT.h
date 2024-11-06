@@ -14,7 +14,7 @@ private:
 	int numItems = 0;
 	int capacity = 10;
 	/*
-		The front and rear indices of the cirular array.
+		The front and rear indices of the circular array.
 	*/
 	int frontIn = 0;
 	int rearIn = 0;
