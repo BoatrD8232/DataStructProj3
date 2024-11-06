@@ -7,12 +7,15 @@ int main()
 	*/
 	Queue<int> newQ;
 	/*
-		Adds 21 randomly generated integers. Adds 21 so the array is resized twice.
+		Adds 10 randomly generated integers.
 	*/
-	for (int i = 0; i < 21; ++i) {
+	for (int i = 0; i < 10; ++i) {
 		int randNum = rand() % 50 + 1;
 		newQ.push(randNum);
 	}
+	newQ.display();
+	// Move to rear.
+	newQ.move_to_rear();
 	newQ.display();
 	/*
 		Pops the list numItems + 1 times in order to clear the list and 
