@@ -47,7 +47,7 @@ template <typename Item_Type> void Queue<Item_Type>::display() {
 
 template <typename Item_Type> void Queue<Item_Type>::resize() {
 	const int newCap = capacity * 2;
-	// tempArr is used stores the old array for use in sawpping and deletion.
+	// tempArr is used stores the old array for use in swapping and deletion.
 	int* tempArr;
 	int* newData = new int[newCap];
 	// Copies the data form the old array to the new array.
