@@ -4,7 +4,7 @@ The queue is implemented as a template, but the final line of QueueVT.cpp must b
 The examples in DataStructQueueTemplate.cpp will only work for a queue of type int. The contents of a queue may be printed using the display function.
 
 Example Execution:
-The below screenshot shows a queue being filled with 21 elements and displayed. 21 is chosen so that the array will be resized twice. The pop function is then called 22 times in order to clear the list and show the error message when pop is called on an empty list. The empty list is then displayed. The included DataStructQueueTemplate.cpp only creates 10 random integers, but that number is easily changed by modifying the for loop.
+The below screenshot shows a queue being filled with 21 elements and displayed. 21 is chosen so that the array will be resized twice. The pop function is then called 22 times in order to clear the list and show the error message when pop is called on an empty list. The empty list is then displayed. The included DataStructQueueTemplate.cpp only creates 10 random integers, but that number is easily changed by modifying the upper bounds of the first for loop.
 
 ![Q1](https://github.com/user-attachments/assets/2ee66ec1-9e08-44dd-a30b-dc0e71cfa157)
 
